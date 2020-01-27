@@ -1,2 +1,2 @@
 # tower_defense_game
-A small tower defense game
+This is a small tower defense game made in python with pygame.
